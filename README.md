@@ -10,7 +10,7 @@ Cliquez sur le bouton microphone 🎤, parlez, et observez le texte s'afficher e
 
 ## 📸 Aperçu
 
-![Aperçu de l'application Speech to Text](screenshot.png) <!-- Tu peux remplacer par une capture d’écran de ton app -->
+![Aperçu de l'application Speech to Text](Screenshot.png) <!-- Tu peux remplacer par une capture d’écran de ton app -->
 
 ---
 
