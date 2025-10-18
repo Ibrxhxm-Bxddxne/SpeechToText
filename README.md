@@ -32,5 +32,4 @@ Cliquez sur le bouton microphone 🎤, parlez, et observez le texte s'afficher e
 - **Font Awesome** – icônes (microphone, stop)
 
 
-## 📂 Structure du projet
-
+## 📂 Structure du proje
